@@ -12,7 +12,7 @@
     "palette": "green",
     "main_menu": [
         {
-            "title": "Store",
+            "title": "Магазин",
             "url": "/store",
             "style": "link"
         },
