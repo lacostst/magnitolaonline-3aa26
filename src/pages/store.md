@@ -23,7 +23,7 @@ sections:
       url: /store
       style: secondary
       arrow: true
-  - section_id: lorem-ipsum
+  - section_id: tesla
     title: lorem-ipsum
     featured_categories: []
     type: featured_categories_section
