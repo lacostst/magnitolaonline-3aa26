@@ -6,11 +6,12 @@ sections:
     section_id: hero_section
     background_image: images/header.jpg
     background_image_opacity: 65
-    content: >-
-      # Real, beautiful plants right to your door
+    content: >
+      # Павел, здесь ты будешь предлагать магнитолы для продажи и установки
 
-      Don't forget to add your Snipcart API key to the site's configuration to
-      enable Cart actions.
+
+      Не забудь подробно указать гарантийные обязательства производителя и
+      возможность бесплатного снятия ГУ и транспортировки его в СЦ.
     actions:
       - title: See all items
         url: /store
