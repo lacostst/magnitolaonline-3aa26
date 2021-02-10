@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Домой
 white_header: true
 sections:
   - type: hero_section
