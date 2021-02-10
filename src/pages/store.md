@@ -24,7 +24,7 @@ sections:
       style: secondary
       arrow: true
   - section_id: tesla
-    title: lorem-ipsum
+    title: Магнитолы Tesla
     featured_categories: []
     type: featured_categories_section
 template: store
