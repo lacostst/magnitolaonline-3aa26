@@ -17,6 +17,13 @@
             "style": "link"
         },
         {
+            "title": "Установка",
+            "url": "lorem-ipsum",
+            "style": "primary",
+            "arrow": false,
+            "type": "action"
+        },
+        {
             "title": "О нас",
             "url": "/about",
             "style": "link"
@@ -25,13 +32,6 @@
             "title": "FAQ",
             "url": "/faq",
             "style": "link"
-        },
-        {
-            "title": "Установка",
-            "url": "lorem-ipsum",
-            "style": "primary",
-            "arrow": false,
-            "type": "action"
         }
     ],
     "title": "Магнитола.онлайн"
